@@ -1,0 +1,264 @@
+﻿=== Pricing Table by Supsystic ===
+Contributors: supsystic.com
+Donate link: http://supsystic.com/plugins/pricing-table
+Tags: price table, pricing table, price, pricing, table, comparison table, css table, comparison, price gird, pricing gird, pricing box, price chart, price plan, chart, plan
+Tested up to: 4.4.1
+Stable tag: 1.2.3
+
+Pricing Table generator by Supsystic allow you to create responsive pricing tables or comparison table without any programming skills
+
+== Description ==
+
+Create amazing pricing tables without any programming skills. 
+It's possible with [Pricing Table drag-and-drop generator by Supsystic](http://supsystic.com/plugins/pricing-table?utm_source=wordpress&utm_medium=description&utm_campaign=pricingtable "Pricing Table WordPress plugin by Supsystic"). Choose pricing table template, edit content and publish on the website.
+
+= Pricing Table Features =
+
+* Responsive pricing tables
+* Drag-and-drop builder
+* Unlimited pricing tables, columns and rows 
+* Tooltips support
+* Button, text, CSS styles for any pricing gird
+* Column images and videos
+* Custom Header, Features list, and Button styling
+* [Pricing Table Examples](http://supsystic.com/plugins/pricing-table/#examples "Pricing Table Examples")
+* [Comparison Table](http://supsystic.com/comparison-example/ "Comparison Table")
+
+It's never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click.
+
+[youtube https://www.youtube.com/watch?v=iApIf0bJG5Y]
+
+Pricing tables are used as a way to illustrate how features of a product differ as the price changes.
+
+Pricing tables must be chosen very carefully so that visitors should get the information they would be interested in. Available features, options and costs as well as refund. Price tables by Supsytic with nice templates with drug-and-drop builder are totally unique and less used for you to integrate easily on your website.
+
+When you create your pricing table, it is good to consider the following points:
+
+* Visually separate plans in pricing table by using alternating background colours. When used sparingly, you can attract attention the price plan you want the user to buy.
+* Utilize different price table font sizes and colours for elements you want to stand out: titles, prices plan, headlines, etc.
+* Be aware that users scroll down long tables. Prices at the top of a pricing table might not be visible when they’ve reached the table bottom. One solution is to place prices both at the top and bottom – another is to keep the pricing table short.
+
+= Pricing Table Drag-and-Drop Builder =
+
+The Pricing Table Drag-and-Drop builder allows you to showcase the prices for your product, services, or packages in a beautiful and responsive pricing table. Design your pricing table just as you want. Allows you to choose an icon that you can insert beside your header, add pricing table rows and columns, or enlarge a pricing column where you would like to emphasize a certain price.
+
+In the pricing table user should carefully examine its portfolio and pick the most important features to present in its pricing plans. Visitors should be given only the information they would be interested in: available price features, options and costs. The rule of thumb is: every unnecessary cell in your pricing table increases the probability of losing potential customers, because you make it more difficult for them to compare various price plans and select the best one.
+
+== Screenshots ==
+
+1. [Pricing Table by Supsystic](http://supsystic.com/price-table-rainbow?utm_source=wordpress&utm_medium=example&utm_campaign=pricingtable "Pricing Table by Supsystic") admin area
+
+2. [Responsive Pricing Table](http://supsystic.com/plugins/pricing-table?utm_source=wordpress&utm_medium=screenshotsecond&utm_campaign=pricingtable "Responsive Pricing Table")
+
+3. Simple Pricing Table
+
+4. Most modern commercial WordPress pricing table template provide built in Pricing Tables builder
+
+5. Pricing Table by Supsystic Admin Area
+
+6. WordPress Pricing Table Plugin is the Drag and Drop way to build pricing table or comparison table or feature table
+
+7. WordPress pricing table plugins are really useful for business websites selling any kind of product or providing service
+
+8. Flat Price Table
+
+9. [Comparison Table](http://supsystic.com/comparison-example/ "Comparison Table"). The Comparison Table option offers a feature to create tables for comparing reviews boxes
+
+== Installation ==
+
+1. Download Pricing Table by Supsystic plugin
+2. Unarchive plugin Pricing Table plugin
+3. Copy the folder with plugin
+4. Open ftp \wp-content\plugins\
+5. Paste the plug-ins folder in the folder
+6. Go to admin panel => open item "Plugins" => activate Pricing Table by Supsystic plugin
+
+== Other Notes ==
+
+The price table is a great way to show information about various prices for its products or services, especially, some hosting company, they need to present the pricing table of each plan clearly on pricing table to easy for users to looking. Those pricing table should content text and features description easy users reading information of each price table level has to offer in a table format. Depending on the contents of the price chart, the pricing tables can be good for organizing many other types of data for deep clarity other than price like comparison table.
+
+= Pricing Table Structure =
+
+Most of the pricing tables are horizontal because it’s easier to compare the offers and see features. That doesn’t mean you should always use the horizontal pricing table layout, though. It really depends on the variety and complexity of the price plans information you want to display in the pricing table chart. Best practice is to use a horizontal table solution when you have to display a lot of features and a vertical one when you don’t have a lot of plans to offer and you’re not planning to include a long list of features in your pricing table.
+
+= Pricing Table Design =
+
+Design can do one of two things to your business – either sink it or raise it to the top. You have to be very careful when designing a pricing chart. Fonts, headlines, layout of pricing table – it all has to be balanced and done neatly. Furthermore you have to make sure the pricing chart’s design works with the main site. However don’t forget about your main goal. In pricing tables, design is just a tool to achieve your objectives, namely – increase sales. Simplicity is the key to success of price chart. Remember that you’re not creating a collage for school, you’re creating a price table design for a specific reason. Don’t clutter your chart with unnecessary elements. A common mistake is to write down a list of features most of the plans in the pricing table don’t offer and then put dozens of red crosses in your pricing table chart. Consumers don’t want to see what you’re not offering, they want to see what you’ve got and for what price.
+
+= Comparison Table =
+
+Adding a pricing or product comparison table to your website makes it easier for your visitors to come to a decision on whether to make purchase or not, giving them the ability to compare prices and features at a glance.
+
+Offering your own products with coparison table in a number of packages can also help increase the amount of revenue that is generated. These versions and upgrades can then be displayed in a comparison table. Also by comparing the products you are promoting against the competition, you can let your visitors do their research on your site, and increase the chances of them making a purchase through your affiliate link, rather than going elsewhere. Create comparison table from any pricing template with image or video embeding.
+
+== Changelog ==
+
+= 1.2.3 / 20.01.2016 =
+ * Fix text align
+ * Fix conflicts with WordPress Themes that using "icon" as part of class names
+ * Added possibility to use short codes inside Pricing Tables
+ * Added link to image and icon
+ * Update show color
+ * Fixed issue "The panel does not show the current color color previously selected"
+ * Fixed issue "You can not choose the color of the column"
+
+= 1.2.2 / 23.12.2015 =
+ * Added a new color picker
+ * Fixed issue with moving column - not saved color styles for column
+ * Fixed issue with white background in table shell element
+ * Minor issues fixes and improvements
+
+= 1.2.1 / 09.12.2015 =
+ * Added new feature - CSS editor
+ * Fixed issue with icons. Now icon will be displayed without title
+ * Fixed problem with offset of editor during editing of text
+ * Added fixed center alignment of price for Botein and Alcor templates
+
+= 1.2.0 / 02.12.2015 =
+ * Added Text Align for table functionality
+ * Fixed minor builder issues - now it is more stable and comfortable for usage!
+ * Minor issues fixes and improvements
+
+= 1.1.9 / 24.11.2015 =
+ * Small fix for Responsiveness of Pricing Tables
+ * Fix Box Sizing for all Pricing Table Templates - more compatibility for all WordPress Themes!
+ * Minor Pricing Tables builder improvements
+
+= 1.1.8 / 17.11.2015 =
+ * Added Clone table functionality
+ * Added tables to PRO - "Comfort", "Dr House", "Server Hosting" - https://supsystic.com/plugins/pricing-table/
+ * Small correct cells height calculation
+ * Update base Pricing Table Templates names
+ * Minor builder issues fix
+
+= 1.1.7 / 12.11.2015 =
+ * New Pricing Table template - "Bootstrap Light"
+ * New Pricing Table template - "7-day trial"
+ * New Pricing Table PRO templates - "Big Brother", "Ati", "Triangle Header", "Plans", "Clean", "Veggy", "Product Compare", "Easy Columns" - all is available now in one PRO package here http://supsystic.com/plugins/pricing-table/
+
+= 1.1.6 / 10.11.2015 =
+ * Change template feature - update all parameters from new template for table
+ * Admin area Pricing Table building options improvements - now it more pretty and comfortable for Pricing Tables building!
+ * More comfortable Pricing Table template selection process
+ * Core builder improvements (add CSS class to table when it go to full responsive mode)
+ * Fix issue when colors for Pricing Templates was set in 3 digit format (#fff for example)
+
+= 1.1.5 / 05.11.2015 =
+ * Minor plugin JS core improvements
+ * Add "Disable Responsivity" option
+
+= 1.1.4 / 03.11.2015 =
+ * Added new template - "Orange"
+ * Small fix for Flat Table template
+ * Notice in admin area when trying to change Bg color, but all cols have their own colors
+ * Admin area user friendliness improvements:)
+ * Improve elements menu interactions in WySiWyg Builder
+ * Save Pricing Table Bandges font size and line height styles - to not allow custom users theme style broke it
+ * Minor wording fix in admin area
+ * Make all images in tables - responsive
+ * Set minimum width for elements - even after text was removed there will be still possibility to edit it
+ * Admin area builder setting - now for small device screens too!
+ * Update template engine - to latest version (client and server sides)
+ * Update all templates - fix issue with client-side twig compiler and complex expressions with ternary operator
+ * Fixed small issue with builder (when jquery assigned null value)
+ * Change version for js and css files each time new version is release - to avoid using browser cache
+
+= 1.1.3 / 21.10.2015 =
+ * Adapt cell height after column with or column calculation with was changed. Closes #43 add 0.2h.
+ * Pretty admin menu icon
+ * Fix icons compatibility with some other popular icons libs
+ * Minor issues fix
+ * Tables builder improvements
+
+= 1.1.2 / 13.10.2015 =
+ * Standard Fonts Families added (now full list consists of Google Fonts + Standard Fonts)
+ * Add row after / Add row before feature will add row as copy of target row
+ * Small spelling issues fix
+ * Fix height of Description Pricing Table row with Animation hover effect
+ * Pricing Table plugin admin interface improvements - make it more userfriendly
+ * More interactions with our users - just trying improve software for your needs!
+ * Fixed issue with base price templates doubles
+ * Core code improvements
+ * PRO Pricing Table Templates integration
+ * Pricing Table Builder button elements - possibility to change border color on hover effect
+ * All price table data - align to center
+ * Add comparison table demo
+
+= 1.1.1 / 06.10.2015 =
+ * Refresh rows height each time table is loaded or changed for all table columns (not only for first description column)
+ * Refresh pricing table cells height on screen resize too
+ * Base pricing table templates improvements
+ * Minor builder improvements
+
+= 1.1.0 / 01.10.2015 =
+ * Correct "Change template" functionality
+ * Drag-&-Drop pricing cells in table columns functionality
+ * Fix issue with adding columns
+ * Possibility to hide Head, Description or Footer table rows
+ * Edit table admin page small re-design - make it more pretty and comfortable for usage
+ * Improvements of badges functionality. Re-create your already existing badges!
+ * Possibility to add rows before/after any other row (before you was able add rows only to the end of table)
+
+= 1.0.9 / 29.09.2015 =
+ * Make tables - fully responsive!
+ * Admin area small re-design - make it more comfortable for usage
+ * Make new elements after it was replaced to be in same style, as other elements in current table (not styled by default)
+ * Hide column setting menu when other element menu appear
+ * Change builder main colors - make it more pretty
+ * Fix issue with elements type change in FireFox
+ * If width is in px and more then 100, then change it's measure - to %, - set it to 100 to avoid table distort
+
+= 1.0.8 / 24.09.2015 =
+ * Fix CDN URL for HTTPS connection
+ * Small fix style for close popup btn in admin area when jquery dialog style are loaded
+ * Fix elements type change functionality for Chrome browser
+ * Builder minor issues fix
+
+= 1.0.7 / 22.09.2015 =
+ * Tooltips for Cells functionality added
+ * Template compiler server side optimization
+ * Moved static info - to CDN servers: make plugin lighter
+ * List Tables - get only required information from database -> reduce response size
+ * Option for users, who want to help our plugin, check it in Settings tab -> Promo link
+ * Minor issues fix
+
+= 1.0.6 / 17.09.2015 =
+ * Reorganize admin area Table options - to make it's usage more comfortable
+ * Added information helpers in admin area for main Table options
+ * Change template for Table functionality after it was already created
+ * Correct set height for Description column
+ * Added Preview buttons in admin area (just move screen to WySiWyg table editor)
+ * Set table width - 100% by default (You can always change it from Table edit screen)
+ * Fix issue with showing multiple tables on one page
+
+= 1.0.5 / 14.09.2015 =
+ * Improved install base tables templates method
+ * Fix issue with invalid HTML auto saving when enabled hover effect and edited hovered column
+ * Minor issues fix
+ * Tables builder improvements
+
+= 1.0.4 / 08.09.2015 =
+ * When switch pricing table width measure and measure calculation - is not Table - then don't change table
+ * Change menus names
+ * Change link to Pricing Table by Supsystic plugin to correct one
+ * Minor issues fix and price table and charts code improvements
+
+= 1.0.3 / 01.09.2015 =
+ * Add and remove pricing table rows function added
+ * Minor bugs fixed
+ * Pricing Table builder menu changes
+
+= 1.0.2 / 29.08.2015 =
+ * Added global table Font selection - more then 700 font available!
+ * Added global table Text Color selection (for cells, header, header description cell)
+ * Improve Hover effect animation (work more beauty + also will be viewable from admin area)
+ * Builder core improvements (make it faster)
+ * Tables design improvements
+ * Admin interface design improvements
+ * Fixed issue with icons on frontend
+ * Improve existing templates
+ * New pricing table template - "Flat Table"
+ * Pricing Table Screenshots added
+
+= 1.0.1 =
+* Release on wordpress.org
